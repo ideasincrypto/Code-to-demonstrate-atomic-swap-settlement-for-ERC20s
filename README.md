@@ -1,2 +1,3 @@
 # zm-stl
-ZM STL
+
+Code to demonstrate atomic swap settlement for ERC20s
