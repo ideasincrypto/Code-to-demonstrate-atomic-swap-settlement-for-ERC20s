@@ -15,4 +15,4 @@ Code to demonstrate atomic swap settlement for ERC20s
 
 "Most atomic swap-enabled wallets and blockchains use smart contracts. Smart contracts are programs within blockchains that execute when certain conditions are met. In this case, the conditions are that each party agrees to the transaction before a timer runs out. Using a smart contract in the trade prevents either party from stealing a cryptocurrency from the other."
 
-See more [here](https://www.investopedia.com/terms/a/atomic-swaps.asp).
+See more [here](https://www.investopedia.com/terms/a/atomic-swaps.asp) and about [HTLC here](https://corporatefinanceinstitute.com/resources/cryptocurrency/hashed-timelock-contract-htlc/)
